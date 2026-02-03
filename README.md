@@ -4,7 +4,7 @@
 ``npm -v``
 ## Inicializar un proyecto
 ``npm init -y``
-
+`` npm install express``
 ## Manejo de Git
 ``git init``
 ``git add .``
